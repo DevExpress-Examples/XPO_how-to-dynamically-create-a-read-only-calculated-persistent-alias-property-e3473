@@ -6,8 +6,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Program.cs](./CS/ConsoleApplication17/Program.cs) (VB: [Program.vb](./VB/ConsoleApplication17/Program.vb))
-* [XPAliasedMemberInfo.cs](./CS/ConsoleApplication17/XPAliasedMemberInfo.cs) (VB: [XPAliasedMemberInfo.vb](./VB/ConsoleApplication17/XPAliasedMemberInfo.vb))
+* [Program.cs](./CS/ConsoleApplication17/Program.cs) 
+* [XPAliasedMemberInfo.cs](./CS/ConsoleApplication17/XPAliasedMemberInfo.cs) 
 <!-- default file list end -->
 # How to dynamically create a read-only calculated (persistent alias) property
 
